@@ -4,6 +4,9 @@ This repository contains code for the problem 2 of the 2025 IMMC (Intercollegiat
 
 Contributors: [Oliver Lublin](https://github.com/olublin), [Alex Zhang](https://github.com/Alexz08), and [Suhaib Mansour](https://github.com/Swabwayy). 
 
+
+![alttext](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522graph%2Btheory%2522&psig=AOvVaw3AwAItUdezmWmCeoOl7rMD&ust=1763399559349000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC367SV95ADFQAAAAAdAAAAABAE)
+
 ---
 ## Running graph_clustering.ipynb
 
